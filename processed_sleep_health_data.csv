@@ -1,0 +1,1000 @@
+Person ID,Gender,Age,Occupation,Sleep_Duration,Quality_of_Sleep,Physical_Activity_Level,Stress_Level,BMI_Category,Heart_Rate,Daily_Steps,Sleep_Disorder,Systolic,Diastolic
+1,Female,56,Doctor,8.2,9,90,3,Normal Weight,65,10000,Tidak Memiliki Gangguan,118,75
+2,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+3,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+4,Female,59,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+5,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+6,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+7,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+8,Male,32,Accountant,7.2,8,50,6,Normal Weight,68,7000,Tidak Memiliki Gangguan,118,76
+9,Female,37,Nurse,7.5,8,60,4,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+10,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+11,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+12,Female,36,Teacher,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+13,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+14,Female,51,Nurse,7.1,7,55,6,Normal Weight,72,6000,Tidak Memiliki Gangguan,125,82
+15,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+16,Female,57,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+17,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+18,Female,29,Nurse,6.5,5,40,7,Normal Weight,80,4000,Sleep Apnea,132,87
+19,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Insomnia,130,85
+20,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+21,Female,51,Nurse,7.1,7,55,6,Normal Weight,72,6000,Tidak Memiliki Gangguan,125,82
+22,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+23,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+24,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+25,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+26,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+27,Female,57,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+28,Female,51,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+29,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+30,Female,56,Doctor,8.2,9,90,3,Normal Weight,65,10000,Tidak Memiliki Gangguan,118,75
+31,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+32,Male,44,Salesperson,6.5,6,45,7,Overweight,72,6000,Tidak Memiliki Gangguan,130,85
+33,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+34,Female,53,Engineer,8.3,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+35,Male,31,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+36,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+37,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+38,Male,39,Engineer,6.5,5,40,7,Overweight,80,4000,Insomnia,132,87
+39,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+40,Female,54,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+41,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+42,Male,32,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+43,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+44,Male,37,Lawyer,7.4,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+45,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+46,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+47,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+48,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+49,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+50,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+51,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+52,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+53,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+54,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+55,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+56,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+57,Female,55,Nurse,8.1,9,75,4,Overweight,72,5000,Sleep Apnea,140,95
+58,Male,29,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+59,Female,53,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+60,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+61,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Tidak Memiliki Gangguan,140,95
+62,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+63,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+64,Female,31,Nurse,7.9,8,75,4,Normal Weight,69,6800,Tidak Memiliki Gangguan,117,76
+65,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+66,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+67,Male,31,Doctor,6.1,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+68,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+69,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+70,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+71,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+72,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+73,Female,54,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+74,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+75,Female,31,Nurse,7.9,8,75,4,Normal Weight,69,6800,Tidak Memiliki Gangguan,117,76
+76,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+77,Male,42,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+78,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+79,Female,31,Nurse,7.9,8,75,4,Normal Weight,69,6800,Tidak Memiliki Gangguan,117,76
+80,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+81,Female,49,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+82,Male,32,Accountant,7.2,8,50,6,Normal Weight,68,7000,Tidak Memiliki Gangguan,118,76
+83,Female,52,Accountant,6.5,7,45,7,Overweight,72,6000,Insomnia,130,85
+84,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+85,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Insomnia,130,85
+86,Female,54,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+87,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+88,Female,36,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+89,Male,29,Doctor,6.0,6,30,8,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+90,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Insomnia,130,85
+91,Male,32,Doctor,6.2,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+92,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+93,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+94,Male,43,Engineer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+95,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+96,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+97,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+98,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+99,Male,43,Engineer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+100,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+101,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+102,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+103,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Tidak Memiliki Gangguan,135,90
+104,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+105,Female,36,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+106,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+107,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+108,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+109,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+110,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+111,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+112,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+113,Female,57,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+114,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+115,Female,45,Teacher,6.8,7,30,6,Overweight,65,6000,Insomnia,135,90
+116,Male,36,Teacher,6.6,5,35,7,Overweight,74,4800,Sleep Apnea,129,84
+117,Male,38,Lawyer,7.3,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+118,Male,36,Teacher,6.6,5,35,7,Overweight,74,4800,Sleep Apnea,129,84
+119,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+120,Female,59,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+121,Male,43,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+122,Male,44,Engineer,6.8,7,45,7,Overweight,78,5000,Insomnia,130,85
+123,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+124,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+125,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+126,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+127,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+128,Female,43,Teacher,6.7,7,45,4,Overweight,65,6000,Insomnia,135,90
+129,Male,38,Lawyer,7.1,8,60,5,Normal Weight,68,8000,Sleep Apnea,130,85
+130,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+131,Female,39,Lawyer,6.9,7,50,6,Normal Weight,75,5500,Tidak Memiliki Gangguan,128,85
+132,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+133,Female,35,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+134,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+135,Male,41,Lawyer,7.1,7,55,6,Overweight,72,6000,Tidak Memiliki Gangguan,125,82
+136,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+137,Female,42,Teacher,6.8,6,45,7,Overweight,78,5000,Sleep Apnea,130,85
+138,Female,42,Teacher,6.8,6,45,7,Overweight,78,5000,Sleep Apnea,130,85
+139,Female,49,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+140,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+141,Female,51,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+142,Male,43,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+143,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+144,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+145,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+146,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+147,Male,41,Lawyer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+148,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+149,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+150,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+151,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+152,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+153,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+154,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+155,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+156,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+157,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+158,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+159,Male,31,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+160,Female,36,Teacher,7.2,8,60,4,Normal Weight,68,7000,Sleep Apnea,115,75
+161,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+162,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+163,Female,30,Nurse,6.4,5,35,7,Normal Weight,78,4100,Insomnia,130,86
+164,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+165,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+166,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+167,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+168,Female,57,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+169,Female,59,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+170,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+171,Female,31,Nurse,7.9,8,75,4,Normal Weight,69,6800,Tidak Memiliki Gangguan,117,76
+172,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+173,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+174,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+175,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+176,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+177,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+178,Female,29,Nurse,6.5,5,40,7,Normal Weight,80,4000,Insomnia,132,87
+179,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+180,Male,35,Engineer,7.3,8,60,4,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+181,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+182,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+183,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+184,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+185,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+186,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+187,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+188,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+189,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+190,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+191,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+192,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+193,Female,51,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+194,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+195,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+196,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Insomnia,140,95
+197,Female,45,Teacher,6.8,7,30,6,Overweight,65,6000,Insomnia,135,90
+198,Female,55,Nurse,8.1,9,75,4,Overweight,72,5000,Sleep Apnea,140,95
+199,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+200,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+201,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+202,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+203,Female,49,Nurse,6.2,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+204,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+205,Male,30,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+206,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+207,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+208,Female,55,Nurse,8.1,9,75,4,Overweight,72,5000,Sleep Apnea,140,95
+209,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Sleep Apnea,130,85
+210,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+211,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+212,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+213,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+214,Male,38,Lawyer,7.1,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+215,Female,36,Teacher,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+216,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+217,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+218,Male,33,Doctor,6.1,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+219,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+220,Female,49,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+221,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+222,Female,43,Teacher,6.7,7,45,4,Overweight,65,6000,Insomnia,135,90
+223,Male,41,Lawyer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+224,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+225,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+226,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+227,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+228,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+229,Female,54,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+230,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+231,Female,43,Teacher,6.7,7,45,4,Overweight,65,6000,Insomnia,135,90
+232,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+233,Female,49,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+234,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+235,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+236,Female,34,Scientist,5.8,4,32,8,Overweight,81,5200,Sleep Apnea,131,86
+237,Female,51,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+238,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+239,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+240,Male,28,Doctor,6.2,6,60,8,Normal Weight,75,10000,Tidak Memiliki Gangguan,125,80
+241,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+242,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+243,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+244,Male,36,Teacher,6.6,5,35,7,Overweight,74,4800,Insomnia,129,84
+245,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+246,Female,53,Engineer,8.3,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+247,Female,59,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+248,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+249,Male,32,Doctor,6.2,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+250,Male,30,Doctor,7.9,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+251,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+252,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+253,Male,32,Accountant,7.2,8,50,6,Normal Weight,68,7000,Tidak Memiliki Gangguan,118,76
+254,Male,29,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+255,Female,42,Teacher,6.8,6,45,7,Overweight,78,5000,Sleep Apnea,130,85
+256,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+257,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+258,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+259,Female,43,Teacher,6.7,7,45,4,Overweight,65,6000,Insomnia,135,90
+260,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+261,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+262,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+263,Female,43,Teacher,6.7,7,45,4,Overweight,65,6000,Insomnia,135,90
+264,Male,28,Doctor,6.2,6,60,8,Normal Weight,75,10000,Tidak Memiliki Gangguan,125,80
+265,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+266,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+267,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+268,Female,56,Doctor,8.2,9,90,3,Normal Weight,65,10000,Tidak Memiliki Gangguan,118,75
+269,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+270,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+271,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+272,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+273,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+274,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+275,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Insomnia,140,95
+276,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+277,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+278,Male,44,Salesperson,6.5,6,45,7,Overweight,72,6000,Tidak Memiliki Gangguan,130,85
+279,Female,53,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+280,Male,40,Lawyer,7.9,8,90,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+281,Male,32,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+282,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+283,Female,49,Nurse,6.2,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+284,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+285,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+286,Male,41,Lawyer,7.6,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+287,Female,36,Teacher,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+288,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+289,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+290,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+291,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+292,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Insomnia,125,80
+293,Male,30,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+294,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+295,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+296,Female,45,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+297,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+298,Female,57,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+299,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+300,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+301,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+302,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+303,Female,36,Teacher,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+304,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+305,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+306,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+307,Female,36,Teacher,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+308,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+309,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+310,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+311,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+312,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+313,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+314,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+315,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+316,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+317,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+318,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+319,Male,36,Teacher,6.6,5,35,7,Overweight,74,4800,Insomnia,129,84
+320,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+321,Female,57,Nurse,8.1,9,75,3,Overweight,68,7000,Tidak Memiliki Gangguan,140,95
+322,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+323,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+324,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+325,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+326,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+327,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+328,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+329,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+330,Male,41,Lawyer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+331,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+332,Female,54,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+333,Male,41,Lawyer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+334,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+335,Female,49,Nurse,6.2,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+336,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+337,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+338,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+339,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+340,Male,43,Engineer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+341,Male,43,Engineer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+342,Female,57,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+343,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+344,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+345,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+346,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+347,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+348,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+349,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+350,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+351,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+352,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+353,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+354,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+355,Male,41,Lawyer,7.1,7,55,6,Overweight,72,6000,Tidak Memiliki Gangguan,125,82
+356,Female,53,Engineer,8.3,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+357,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+358,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+359,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+360,Male,38,Lawyer,7.3,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+361,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+362,Male,31,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+363,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+364,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+365,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+366,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+367,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+368,Male,38,Lawyer,7.3,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+369,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+370,Male,28,Doctor,6.2,6,60,8,Normal Weight,75,10000,Tidak Memiliki Gangguan,125,80
+371,Female,57,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+372,Female,59,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+373,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+374,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+375,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+376,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+377,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+378,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+379,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+380,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Tidak Memiliki Gangguan,130,85
+381,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+382,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Sleep Apnea,130,85
+383,Female,55,Nurse,8.1,9,75,4,Overweight,72,5000,Sleep Apnea,140,95
+384,Female,53,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+385,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+386,Female,49,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+387,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+388,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+389,Female,33,Scientist,6.2,6,50,6,Overweight,76,5500,Tidak Memiliki Gangguan,128,85
+390,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+391,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+392,Female,42,Teacher,6.8,6,45,7,Overweight,78,5000,Sleep Apnea,130,85
+393,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+394,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+395,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+396,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+397,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+398,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+399,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+400,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+401,Female,36,Teacher,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+402,Female,36,Teacher,7.2,8,60,4,Normal Weight,68,7000,Sleep Apnea,115,75
+403,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+404,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+405,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+406,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+407,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+408,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+409,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+410,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+411,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+412,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+413,Male,38,Lawyer,7.3,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+414,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+415,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+416,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+417,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+418,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Sleep Apnea,120,80
+419,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+420,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+421,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+422,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+423,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+424,Female,36,Teacher,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+425,Female,49,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+426,Male,42,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+427,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+428,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+429,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+430,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+431,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+432,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+433,Female,45,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+434,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+435,Female,57,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+436,Male,32,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+437,Female,30,Nurse,6.4,5,35,7,Normal Weight,78,4100,Insomnia,130,86
+438,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+439,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+440,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+441,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+442,Male,32,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+443,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+444,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+445,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+446,Female,45,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+447,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+448,Male,29,Doctor,6.0,6,30,8,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+449,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+450,Female,51,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+451,Male,29,Doctor,6.0,6,30,8,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+452,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+453,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+454,Male,29,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+455,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+456,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+457,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+458,Male,28,Doctor,6.2,6,60,8,Normal Weight,75,10000,Tidak Memiliki Gangguan,125,80
+459,Female,45,Teacher,6.8,7,30,6,Overweight,65,6000,Insomnia,135,90
+460,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+461,Female,51,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+462,Female,51,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+463,Female,36,Teacher,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+464,Female,59,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+465,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+466,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+467,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+468,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+469,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+470,Male,41,Lawyer,7.1,7,55,6,Overweight,72,6000,Tidak Memiliki Gangguan,125,82
+471,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+472,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+473,Male,30,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+474,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+475,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+476,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+477,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+478,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+479,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+480,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+481,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+482,Male,38,Lawyer,7.1,8,60,5,Normal Weight,68,8000,Sleep Apnea,130,85
+483,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+484,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+485,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+486,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+487,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+488,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+489,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+490,Female,53,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+491,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+492,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+493,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+494,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+495,Male,30,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+496,Male,29,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+497,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+498,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+499,Male,41,Lawyer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+500,Female,55,Nurse,8.1,9,75,4,Overweight,72,5000,Sleep Apnea,140,95
+501,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+502,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+503,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+504,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+505,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+506,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+507,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+508,Male,40,Lawyer,7.9,8,90,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+509,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+510,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+511,Male,37,Engineer,7.8,8,70,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,120,80
+512,Female,53,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+513,Female,33,Scientist,6.2,6,50,6,Overweight,76,5500,Tidak Memiliki Gangguan,128,85
+514,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+515,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+516,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+517,Female,59,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+518,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+519,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Tidak Memiliki Gangguan,140,95
+520,Female,36,Teacher,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+521,Female,36,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+522,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+523,Male,30,Doctor,7.9,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+524,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+525,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+526,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+527,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+528,Male,41,Lawyer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+529,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Sleep Apnea,130,85
+530,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+531,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+532,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+533,Female,45,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+534,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+535,Female,54,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+536,Male,41,Lawyer,7.1,7,55,6,Overweight,72,6000,Tidak Memiliki Gangguan,125,82
+537,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Tidak Memiliki Gangguan,140,95
+538,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+539,Male,33,Doctor,6.1,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+540,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+541,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+542,Female,43,Teacher,6.7,7,45,4,Overweight,65,6000,Insomnia,135,90
+543,Male,29,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+544,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+545,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+546,Female,51,Nurse,7.1,7,55,6,Normal Weight,72,6000,Tidak Memiliki Gangguan,125,82
+547,Male,38,Lawyer,7.3,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+548,Female,40,Accountant,7.2,8,55,6,Normal Weight,73,7300,Tidak Memiliki Gangguan,119,77
+549,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Tidak Memiliki Gangguan,130,85
+550,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+551,Male,32,Accountant,7.2,8,50,6,Normal Weight,68,7000,Tidak Memiliki Gangguan,118,76
+552,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+553,Female,34,Scientist,5.8,4,32,8,Overweight,81,5200,Sleep Apnea,131,86
+554,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+555,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+556,Male,32,Doctor,6.2,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+557,Male,35,Teacher,6.7,7,40,5,Overweight,70,5600,Tidak Memiliki Gangguan,128,84
+558,Female,52,Accountant,6.5,7,45,7,Overweight,72,6000,Insomnia,130,85
+559,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+560,Female,49,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+561,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+562,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+563,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+564,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+565,Male,41,Lawyer,7.6,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+566,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+567,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+568,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+569,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+570,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+571,Female,45,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+572,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+573,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+574,Male,41,Engineer,7.3,8,70,6,Normal Weight,72,6200,Tidak Memiliki Gangguan,121,79
+575,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+576,Female,33,Scientist,6.2,6,50,6,Overweight,76,5500,Tidak Memiliki Gangguan,128,85
+577,Male,31,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+578,Female,37,Nurse,7.5,8,60,4,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+579,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+580,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+581,Female,43,Teacher,6.7,7,45,4,Overweight,65,6000,Insomnia,135,90
+582,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+583,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+584,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+585,Male,35,Engineer,7.3,8,60,4,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+586,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+587,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+588,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+589,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+590,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+591,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+592,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+593,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+594,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+595,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+596,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+597,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+598,Male,35,Engineer,7.3,8,60,4,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+599,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+600,Female,44,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+601,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Tidak Memiliki Gangguan,140,95
+602,Female,49,Nurse,6.2,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+603,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+604,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+605,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+606,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+607,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+608,Male,40,Lawyer,7.9,8,90,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+609,Male,37,Engineer,7.8,8,70,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,120,80
+610,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+611,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+612,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+613,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+614,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+615,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+616,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+617,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Sleep Apnea,120,80
+618,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+619,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+620,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+621,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+622,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+623,Female,45,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+624,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Insomnia,140,95
+625,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+626,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+627,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+628,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+629,Male,33,Doctor,6.1,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+630,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+631,Male,31,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+632,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+633,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+634,Male,41,Lawyer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+635,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+636,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+637,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+638,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+639,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+640,Female,53,Engineer,8.3,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+641,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+642,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Tidak Memiliki Gangguan,140,95
+643,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+644,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+645,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+646,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+647,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+648,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+649,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+650,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+651,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+652,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+653,Female,39,Lawyer,6.9,7,50,6,Normal Weight,75,5500,Tidak Memiliki Gangguan,128,85
+654,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+655,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+656,Male,38,Lawyer,7.1,8,60,5,Normal Weight,68,8000,Sleep Apnea,130,85
+657,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+658,Female,33,Scientist,6.2,6,50,6,Overweight,76,5500,Tidak Memiliki Gangguan,128,85
+659,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+660,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+661,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+662,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+663,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+664,Female,57,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+665,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+666,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+667,Female,34,Scientist,5.8,4,32,8,Overweight,81,5200,Sleep Apnea,131,86
+668,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+669,Female,40,Accountant,7.2,8,55,6,Normal Weight,73,7300,Tidak Memiliki Gangguan,119,77
+670,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+671,Female,51,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+672,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+673,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+674,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+675,Female,33,Scientist,6.2,6,50,6,Overweight,76,5500,Tidak Memiliki Gangguan,128,85
+676,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Tidak Memiliki Gangguan,130,85
+677,Male,29,Doctor,6.1,6,30,8,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+678,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+679,Female,33,Scientist,6.2,6,50,6,Overweight,76,5500,Tidak Memiliki Gangguan,128,85
+680,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+681,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+682,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+683,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Tidak Memiliki Gangguan,135,90
+684,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+685,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+686,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+687,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Insomnia,130,85
+688,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+689,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+690,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+691,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+692,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+693,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+694,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+695,Female,34,Scientist,5.8,4,32,8,Overweight,81,5200,Sleep Apnea,131,86
+696,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+697,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+698,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+699,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+700,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+701,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+702,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+703,Female,53,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+704,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+705,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+706,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+707,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+708,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+709,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+710,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+711,Female,35,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+712,Male,38,Lawyer,7.3,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+713,Male,31,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+714,Female,42,Teacher,6.8,6,45,7,Overweight,78,5000,Sleep Apnea,130,85
+715,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+716,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+717,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+718,Male,40,Lawyer,7.9,8,90,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+719,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+720,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+721,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+722,Female,51,Nurse,7.1,7,55,6,Normal Weight,72,6000,Tidak Memiliki Gangguan,125,82
+723,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+724,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+725,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+726,Female,49,Nurse,6.2,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+727,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+728,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+729,Male,30,Doctor,7.9,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+730,Female,57,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+731,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+732,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+733,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+734,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+735,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+736,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+737,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+738,Male,32,Doctor,6.2,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+739,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+740,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+741,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+742,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+743,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+744,Female,57,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+745,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+746,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+747,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+748,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+749,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+750,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+751,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+752,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+753,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+754,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+755,Male,29,Doctor,6.0,6,30,8,Normal Weight,70,8000,Sleep Apnea,120,80
+756,Female,55,Nurse,8.1,9,75,4,Overweight,72,5000,Sleep Apnea,140,95
+757,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+758,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+759,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+760,Male,44,Salesperson,6.5,6,45,7,Overweight,72,6000,Tidak Memiliki Gangguan,130,85
+761,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+762,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+763,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+764,Male,29,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+765,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+766,Male,30,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+767,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+768,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+769,Female,45,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+770,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+771,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+772,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+773,Male,40,Lawyer,7.9,8,90,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+774,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+775,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+776,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+777,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+778,Female,52,Accountant,6.5,7,45,7,Overweight,72,6000,Insomnia,130,85
+779,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+780,Female,51,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+781,Male,37,Lawyer,7.4,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+782,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+783,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+784,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+785,Female,49,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+786,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+787,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+788,Male,41,Lawyer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+789,Female,36,Teacher,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+790,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+791,Male,28,Doctor,6.2,6,60,8,Normal Weight,75,10000,Tidak Memiliki Gangguan,125,80
+792,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+793,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+794,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+795,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+796,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+797,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+798,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+799,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+800,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+801,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+802,Male,40,Lawyer,7.9,8,90,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+803,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+804,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Sleep Apnea,130,85
+805,Female,59,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+806,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+807,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+808,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+809,Male,43,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+810,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+811,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+812,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+813,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+814,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+815,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+816,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+817,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+818,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Tidak Memiliki Gangguan,130,85
+819,Male,38,Lawyer,7.1,8,60,5,Normal Weight,68,8000,Sleep Apnea,130,85
+820,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+821,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+822,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+823,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+824,Male,31,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+825,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+826,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+827,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+828,Female,29,Nurse,6.5,5,40,7,Normal Weight,80,4000,Insomnia,132,87
+829,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+830,Female,36,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+831,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+832,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+833,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+834,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+835,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+836,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+837,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+838,Female,36,Teacher,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+839,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+840,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Insomnia,130,85
+841,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+842,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+843,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+844,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+845,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+846,Male,38,Lawyer,7.1,8,60,5,Normal Weight,68,8000,Sleep Apnea,130,85
+847,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+848,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+849,Male,36,Teacher,6.6,5,35,7,Overweight,74,4800,Sleep Apnea,129,84
+850,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+851,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+852,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+853,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+854,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Tidak Memiliki Gangguan,135,90
+855,Female,51,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+856,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+857,Female,52,Accountant,6.5,7,45,7,Overweight,72,6000,Insomnia,130,85
+858,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+859,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+860,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+861,Male,43,Engineer,7.6,8,75,4,Overweight,68,6800,Tidak Memiliki Gangguan,122,80
+862,Female,53,Engineer,8.3,9,30,3,Normal Weight,65,5000,Insomnia,125,80
+863,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+864,Male,32,Doctor,6.2,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+865,Male,30,Doctor,7.9,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+866,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+867,Female,57,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+868,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+869,Male,32,Doctor,6.0,6,30,8,Normal Weight,72,5000,Tidak Memiliki Gangguan,125,80
+870,Male,37,Lawyer,7.4,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+871,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+872,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+873,Female,39,Accountant,8.0,9,80,3,Normal Weight,67,7500,Tidak Memiliki Gangguan,115,78
+874,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+875,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+876,Female,42,Teacher,6.8,6,45,7,Overweight,78,5000,Sleep Apnea,130,85
+877,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+878,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+879,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+880,Male,36,Teacher,6.6,5,35,7,Overweight,74,4800,Insomnia,129,84
+881,Female,53,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+882,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+883,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+884,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+885,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+886,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+887,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+888,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+889,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+890,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+891,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+892,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+893,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+894,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+895,Male,36,Teacher,6.6,5,35,7,Overweight,74,4800,Sleep Apnea,129,84
+896,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+897,Male,38,Lawyer,7.1,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+898,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+899,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+900,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+901,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+902,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+903,Male,35,Teacher,6.7,7,40,5,Overweight,70,5600,Tidak Memiliki Gangguan,128,84
+904,Female,52,Accountant,6.6,7,45,7,Overweight,72,6000,Insomnia,130,85
+905,Female,56,Doctor,8.2,9,90,3,Normal Weight,65,10000,Tidak Memiliki Gangguan,118,75
+906,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+907,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+908,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+909,Male,37,Lawyer,7.4,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+910,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+911,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+912,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+913,Female,38,Accountant,7.1,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+914,Female,39,Lawyer,6.9,7,50,6,Normal Weight,75,5500,Tidak Memiliki Gangguan,128,85
+915,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+916,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+917,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+918,Female,29,Nurse,6.5,5,40,7,Normal Weight,80,4000,Sleep Apnea,132,87
+919,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+920,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+921,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+922,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+923,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+924,Male,30,Doctor,7.6,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+925,Male,33,Doctor,6.0,6,30,8,Normal Weight,72,5000,Insomnia,125,80
+926,Male,30,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+927,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+928,Female,52,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+929,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+930,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Insomnia,130,85
+931,Female,35,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+932,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+933,Female,59,Nurse,8.2,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+934,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+935,Male,43,Engineer,7.6,8,75,4,Overweight,68,6800,Tidak Memiliki Gangguan,122,80
+936,Male,37,Lawyer,7.4,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+937,Male,43,Engineer,6.9,6,47,7,Normal Weight,69,6800,Tidak Memiliki Gangguan,117,76
+938,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+939,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+940,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+941,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+942,Male,29,Doctor,6.0,6,30,8,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+943,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+944,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+945,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+946,Male,41,Lawyer,7.7,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+947,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+948,Female,58,Nurse,8.0,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+949,Female,37,Accountant,7.2,8,60,4,Normal Weight,68,7000,Tidak Memiliki Gangguan,115,75
+950,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+951,Male,31,Doctor,7.8,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+952,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+953,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+954,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+955,Male,28,Software Engineer,5.9,4,30,8,Obese,85,3000,Insomnia,140,90
+956,Male,31,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+957,Male,35,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+958,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+959,Female,44,Teacher,6.5,7,45,4,Overweight,65,6000,Insomnia,135,90
+960,Female,56,Doctor,8.2,9,90,3,Normal Weight,65,10000,Tidak Memiliki Gangguan,118,75
+961,Male,32,Doctor,7.7,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+962,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+963,Male,49,Doctor,8.1,9,85,3,Obese,86,3700,Sleep Apnea,139,91
+964,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+965,Male,43,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+966,Female,50,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+967,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+968,Female,49,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+969,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+970,Male,28,Sales Representative,5.9,4,30,8,Obese,85,3000,Sleep Apnea,140,90
+971,Female,50,Nurse,6.0,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+972,Male,30,Doctor,7.9,7,75,6,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+973,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+974,Female,39,Accountant,8.0,9,80,3,Normal Weight,67,7500,Tidak Memiliki Gangguan,115,78
+975,Male,39,Lawyer,7.2,8,60,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+976,Female,54,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+977,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+978,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+979,Female,53,Engineer,8.3,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+980,Female,51,Nurse,6.1,6,90,8,Overweight,75,10000,Sleep Apnea,140,95
+981,Male,43,Engineer,7.8,8,90,5,Normal Weight,70,8000,Insomnia,130,85
+982,Male,29,Teacher,6.3,6,40,7,Obese,82,3500,Insomnia,140,90
+983,Male,44,Salesperson,6.4,6,45,7,Overweight,72,6000,Insomnia,130,85
+984,Female,54,Engineer,8.4,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+985,Female,34,Scientist,5.8,4,32,8,Overweight,81,5200,Sleep Apnea,131,86
+986,Male,42,Lawyer,7.8,8,90,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,130,85
+987,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+988,Female,59,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+989,Female,53,Engineer,8.5,9,30,3,Normal Weight,65,5000,Tidak Memiliki Gangguan,125,80
+990,Female,45,Teacher,6.6,7,45,4,Overweight,65,6000,Insomnia,135,90
+991,Male,40,Lawyer,7.9,8,90,5,Normal Weight,68,8000,Tidak Memiliki Gangguan,130,85
+992,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+993,Male,48,Doctor,7.3,7,65,5,Obese,83,3500,Insomnia,142,92
+994,Male,44,Salesperson,6.3,6,45,7,Overweight,72,6000,Insomnia,130,85
+995,Male,43,Salesperson,6.5,6,45,7,Overweight,72,6000,Insomnia,130,85
+996,Female,57,Nurse,8.1,9,75,3,Overweight,68,7000,Sleep Apnea,140,95
+997,Female,38,Lawyer,7.4,7,60,5,Obese,84,3300,Sleep Apnea,135,88
+998,Male,35,Software Engineer,7.5,8,60,5,Normal Weight,70,8000,Tidak Memiliki Gangguan,120,80
+999,Male,27,Software Engineer,6.1,6,42,6,Overweight,77,4200,Tidak Memiliki Gangguan,126,83
