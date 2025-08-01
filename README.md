@@ -51,7 +51,7 @@ Analisis dari data ini mengungkapkan beberapa temuan penting:
 ##  dashboards Pratinjau Dasbor
 Dasbor interaktif dirancang untuk menjelajahi temuan-temuan ini secara visual. Dasbor ini mencakup KPI utama, filter interaktif, serta berbagai grafik yang menyoroti hubungan antar variabel.
 
-* **[Lihat Dasbor Interaktif di Sini]([https://lookerstudio.google.com/s/pNtgwV84HTE])**
+* **[Lihat Dasbor Interaktif di Sini](https://lookerstudio.google.com/s/pNtgwV84HTE)**
 
 ![Pratinjau Dasbor Analisis Tidur](https://github.com/Darelrk/Sleep-Health-and-Lifestyle-Dataset/raw/main/report.jpg)
 
